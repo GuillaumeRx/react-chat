@@ -2,14 +2,14 @@
 
 A simple Chat Box made in React.Js
 
-#Setup
+##Setup
 
 Add Node modules with `npm install`
 
-#Launch
+##Launch
 
 Launch with `npm start`
 
-#Credits
+##Credits
 
 Developed by [Guillaume Roux](https://guillaumerx.fr)
